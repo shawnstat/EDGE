@@ -1,0 +1,5 @@
+export(endr_defs)
+export(endr)
+export(affinity)
+importFrom(Rcpp, evalCpp)
+useDynLib(EDGE, .registration = TRUE)

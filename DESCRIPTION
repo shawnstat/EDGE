@@ -1,0 +1,13 @@
+Package: EDGE
+Type: Package
+Title: Ensemble Dimensionality Reduction for Singel Cell RNA-seq Data
+Version: 1.0
+Authors@R: c(person("Xiaoxiao","Sun",email="xiaoxiao.stat@gmail.com",role = c("aut","cre")),person("Yiwen","Liu",email="yiwen.stat@gmail.com",role = c("aut")))
+Description: Ensemble Dimensionality Reduction for Single Cell RNA-seq Data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.1), RSpectra, Matrix, plyr, bigmemory
+LinkingTo: Rcpp, BH
+RoxygenNote: 6.1.1
+SystemRequirements: C++11
