@@ -1,4 +1,4 @@
-# EDGE: Ensemble Dimensionality Reduction for Single Cell RNA-seq Data
+# EDGE
 
 ## Prerequisites
     Rcpp >= 1.0.1
